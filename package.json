@@ -16,7 +16,8 @@
   ],
   "main": "lib/cards.js",
   "dependencies": {
-    "rand-utils": "latest"
+    "rand-utils": "latest",
+    "cards": "git://github.com/shixish/node-cards"
   },
   "devDependencies": {
     "vows": "latest"
